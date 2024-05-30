@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-assessment",
+  "version": "1.0.0",
+  "description": "\"unit testing exercise for a grading system\"",
+  "main": "solution.js",
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "author": "\"Jasper Ngunjiri\"",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
